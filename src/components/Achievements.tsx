@@ -10,8 +10,8 @@ export default function Achievements() {
     },
     {
       icon: Trophy,
-      title: '1700+ Max Rating',
-      description: 'Achieved a maximum rating of 1700+ on LeetCode, placing in the top percentile of competitive programmers',
+      title: '1720+ Max Rating',
+      description: 'Achieved a maximum rating of 1720+ on LeetCode, placing in the top percentile of competitive programmers',
       color: 'from-yellow-500 to-orange-500',
     },
     {
