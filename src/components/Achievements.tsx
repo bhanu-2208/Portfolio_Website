@@ -4,8 +4,8 @@ export default function Achievements() {
   const achievements = [
     {
       icon: Code2,
-      title: '750+ Problems Solved',
-      description: 'Successfully solved over 750 coding problems on LeetCode, demonstrating strong problem-solving skills',
+      title: '800+ Problems Solved',
+      description: 'Successfully solved over 800 coding problems on LeetCode, demonstrating strong problem-solving skills',
       color: 'from-blue-500 to-cyan-500',
     },
     {
